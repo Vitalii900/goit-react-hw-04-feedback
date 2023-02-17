@@ -1,0 +1,32 @@
+.statistics {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.stat {
+  display: inline-block;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.stat_good {
+  background-color: rgb(46, 228, 167);
+}
+
+
+.stat_neutral {
+  background-color: rgb(191, 252, 25);
+}
+
+.stat_bad {
+  background-color: rgb(231, 59, 59);
+}
+
+.stat_total {
+  background-color: rgb(224, 82, 177);
+}
+
+.stat_positive {
+  background-color: rgb(13, 241, 24);
+}
