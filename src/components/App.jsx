@@ -27,7 +27,7 @@ export const App = () => {
         break;
 
       default:
-        console.log('Something wrong')
+        console.log('Something is wrong')
         break;
     }
   };
